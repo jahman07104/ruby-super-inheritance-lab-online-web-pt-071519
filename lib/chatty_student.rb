@@ -2,11 +2,11 @@ class ChattyStudent < Student
 
     def hello
       super
-   puts "Hey there! I'm so excited to learn stuff."
+    "Hey there! I'm so excited to learn stuff."
    end
     
     def raise_hand
       super
-      puts "Pick me!"
+     "Pick me!"
     end
 end
